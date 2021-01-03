@@ -1,2 +1,2 @@
-# jerome-pierson.github.io/
+# jerome-pierson.github.io
 mijn website
