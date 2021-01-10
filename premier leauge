@@ -44,12 +44,23 @@ body {
   <a href="#Premier leauge">Premier leauge</a>
   
  
-  <a href="#contact">La liga</a>
+  <a href="#La liga">La liga</a>
   <div class="topnav">
-    <a href="#search">Bundesliga </a>
-    <a href="#about">Eredivisie</a>
+    <a href="#Bundesliga">Bundesliga </a>
+    <a href="#Eredivisie">Eredivisie</a>
   </div>
 </div>
+
+<div style="padding-left:16px">
+<h2>Premier leauge</h2>
+<p>De Premier League is de hoogste Engelse voetbalcompetitie.
+De competitie bestaat uit twintig clubs die tussen augustus en mei in totaal 38 wedstrijden spelen. 
+Naast Engelse clubs kunnen ook clubs uit Wales zich kwalificeren voor een plaats in de Premier League, maar daarvoor moeten zij wel deelnemen aan de Engelse voetbalpiramide. 
+Er bestaat een promotie- en degradatieregeling tussen de Premier League en de Football League.</p>
+
+
+
+
 
 
 
